@@ -1,41 +1,95 @@
-# MENAMATKAN PLCIOSIM
-Dengan masuk ke web 'https://plciosim.com/'
+# ⚙️ Menamatkan PLCIOsim
 
-1. BASIC PROGRAM
-2. CONVEYOR
-3. WATER TANK
-4. GARAGE DOOR
-5. PUSBUTTON STOPLIGHT
-6. PUSHBUTTON STOPLIGHT II
-7. GARAGE DOOR II
-8. PUSHBUTTON COUNTER
-9. BASIC ON DELAY TIMER
-10. BASIC OFF DELAY
-11. BASIC RETENTIVE TIMER
-12. UP DOWN COUNTER
-13. WATER TANK II
-14. SIMPLE ADDITION
-15. SIMPLE SUBSTRACTION
-16. SIMPLE MULTIPLICATION
-17. SIMPLE DIVISION
-18. AIR COMPRESSOR I
-19. TIMED STOPLIGHT
-20. COUNTING CONVEYOR
-21. STACK LIGHT
-22. STACK LIGHT II
-23. MANUAL MIXING TANK
-24. XOR
-25. STACK LIGHT III
-26. PUSHBUTTON STACK LIGHT
-27. MULTIPLE ACTIONS IN ONE BUTTON
-28. MANUAL RAILROAD CROSSING
-29. SEQUENCING
-30. 1-2-3 TIMER
-31. TIMER GARAGE DOOR
-32. MANUAL CYLINDER
-33. TIMED GARAGE DOOR ALARM
-34. INTERVAL CONVEYOR
-35. MOVE A PACKAGE
-36. SIMPLE PICK
-37. BIT STOPLIGHT
-38. TIME TANK PURGE
+Dokumentasi perjalanan menyelesaikan seluruh challenge **PLCIOsim** sebagai latihan **PLC dan Ladder Logic**.
+
+> 🎯 **Target: 38 Challenge → 100% Completed**
+
+Platform: [PLCIOsim](https://plciosim.com/)
+
+---
+
+## 📋 Daftar Challenge
+
+### 🔹 Basic & Digital Logic
+
+* [ ] **01. Basic Program**
+* [ ] **02. Conveyor**
+* [ ] **03. Water Tank**
+* [ ] **04. Garage Door**
+* [ ] **05. Pushbutton Stoplight**
+* [ ] **06. Pushbutton Stoplight II**
+* [ ] **07. Garage Door II**
+* [ ] **08. Pushbutton Counter**
+
+### ⏱️ Timer & Counter
+
+* [ ] **09. Basic ON Delay Timer**
+* [ ] **10. Basic OFF Delay**
+* [ ] **11. Basic Retentive Timer**
+* [ ] **12. Up Down Counter**
+* [ ] **13. Water Tank II**
+
+### 🧮 Mathematical Operations
+
+* [ ] **14. Simple Addition**
+* [ ] **15. Simple Subtraction**
+* [ ] **16. Simple Multiplication**
+* [ ] **17. Simple Division**
+
+### 🏭 Industrial Process & Automation
+
+* [ ] **18. Air Compressor I**
+* [ ] **19. Timed Stoplight**
+* [ ] **20. Counting Conveyor**
+* [ ] **21. Stack Light**
+* [ ] **22. Stack Light II**
+* [ ] **23. Manual Mixing Tank**
+
+### 🔀 Logic & Sequencing
+
+* [ ] **24. XOR**
+* [ ] **25. Stack Light III**
+* [ ] **26. Pushbutton Stack Light**
+* [ ] **27. Multiple Actions in One Button**
+* [ ] **28. Manual Railroad Crossing**
+* [ ] **29. Sequencing**
+* [ ] **30. 1-2-3 Timer**
+
+### 🚪 Machine Control & Safety
+
+* [ ] **31. Timer Garage Door**
+* [ ] **32. Manual Cylinder**
+* [ ] **33. Timed Garage Door Alarm**
+* [ ] **34. Interval Conveyor**
+
+### 🤖 Advanced Automation
+
+* [ ] **35. Move a Package**
+* [ ] **36. Simple Pick**
+* [ ] **37. Bit Stoplight**
+* [ ] **38. Time Tank Purge**
+
+---
+
+## 📊 Progress
+
+**0 / 38 Completed**
+
+`░░░░░░░░░░░░░░░░░░░░ 0%`
+
+---
+
+## 🎯 Goal
+
+Menyelesaikan seluruh challenge PLCIOsim untuk memperkuat pemahaman:
+
+* Ladder Logic
+* Digital I/O
+* Timer & Counter
+* Logic Operations
+* Mathematical Instructions
+* Sequencing
+* Machine Control
+* Industrial Automation
+
+> **One challenge at a time. 38 challenges. No shortcuts.** ⚙️
