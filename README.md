@@ -1,2 +1,5 @@
-# lockin
-lock in aja sih
+# MENAMATKAN PLCIOSIM
+1. BASIC PROGRAM
+2. CONVEYOR
+3. WATER TANK
+4. DST.
